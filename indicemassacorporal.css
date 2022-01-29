@@ -1,0 +1,23 @@
+body{
+	margin:15dp;
+	font-family:broadway;
+	background-color:purple;
+}
+
+h1{
+	color:white;
+}
+
+fieldset{
+	background-color:white;
+	margin:15dp;
+	padding:20dp;
+	border-color:green;
+}
+label{
+	color:red;
+}
+
+
+
+	

@@ -1,0 +1,49 @@
+
+
+body{
+	
+	margin-top:175px;
+	background-color:black;
+	font-family:verdana;
+	
+	
+	
+}
+
+fieldset{
+	
+    padding:10px;
+	border-color:red;
+
+	
+}
+h1{
+	margin:20px;
+	text-align:center;
+	color:white;
+	
+}
+
+label{
+	
+	color:green;
+}
+
+h2{
+	
+	text-align:center;
+	color:blue;
+}
+
+button{
+	
+	background:none;
+	border:none;
+	color:red;
+	
+}
+
+	/*Espaço expansível-não se encaixa ao caso;mudança de cor ou determinação de cor não mostrada como possível nesse caso no botão
+	/*Agora sim!Novos testes após limpeza de dados do navegador.
+
+	
